@@ -1,0 +1,20 @@
+<html>
+    <head> 
+        <title>my fst class</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="main.js"></script>
+    </head>
+    <body bg = "yellow">
+        <h1>my fst class</h1>
+        <br>
+        <h2>my fst class</h2>
+        <br>
+        <h3>my fst class</h3>
+        <br>
+        <h4>my fst class</h4>
+        <br>
+        <h5>my fst class</h5>
+        <br>
+        <h6>my fst class</h6>
+    </body>  
+</html> 
